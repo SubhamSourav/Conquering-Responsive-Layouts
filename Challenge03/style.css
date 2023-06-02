@@ -1,0 +1,42 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.page {
+  background-color: #23424a;
+  padding: 5rem;
+}
+.container {
+  width: 50%;
+}
+
+.container * {
+  margin: 1rem 0;
+}
+
+.heading {
+  color: #ffffff;
+  font-size: 48px;
+  font-style: roboto Black;
+}
+
+.content {
+  color: #ffffff;
+  font-size: 21px;
+  font-style: roboto regular;
+}
+
+.btn {
+  background-color: #38cfd9;
+  color: 136c72;
+  mix-blend-mode: normal;
+  border-radius: 31.5px;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  font-weight: 700;
+  border-style: none;
+  font-size: 21px;
+  padding: 1em 2em;
+}
